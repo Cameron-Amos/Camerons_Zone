@@ -9,6 +9,10 @@ Directories contain X, Y, Z
 
 ## Specific projects, and ideas for projects
 
+- we want to emphasize synergy/opportunity for collaboration with Bryce
+- landscollective
+
+
 ### E. nauseosa reference genome 
 
 ###
