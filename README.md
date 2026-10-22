@@ -22,11 +22,11 @@ Seeking to build up a high quality set of data for the ERNA common gardens, for 
 
 ### Actions to be Taken
 
-In passing, to prepare:
 1- Avoid Angsd, use stacks instead. Create a pipeline with the works: Variant calling (Tom likes using Entropy), filtering. How are we using vcftools? What kind of data matrix are we getting out of Trevors data, how many loci? Are we bing too strict?
 2- Get genotype matrix and for struct, pca, umap, eems, everything squared away.
 
 To obtain the data:
+
 1- (DONE) Allow FS money to arrive at UNR 
 2- Collect samples from Central Ferry, and ship on dry ice to UNR. 
 3- Library prep will be done, likely by Tom. If Core Award is not obtained, all samples will be sent to a 3rd party company for size selection and sequencing. Otherwise, half of it will be done here in the university through the UNR Genomics Core with Andrew.
