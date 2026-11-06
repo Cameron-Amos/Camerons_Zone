@@ -101,7 +101,9 @@ https://github.com/dianatataru/Timema-SV-Methods/blob/main/README.md
 Example Stacks GBS pipeline
 https://github.com/duceppemo/GBS_stacks
 
-
-
+Timema Structural Variant Method (Diana)
+https://github.com/dianatataru/Timema-SV-Methods/blob/main/README.md
+Script:
+https://drive.google.com/file/d/13O3hBWRBdHLWr8q27pSqOgwu4MPsfq3i/view?usp=sharing
 
 
