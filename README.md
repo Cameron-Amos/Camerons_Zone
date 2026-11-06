@@ -95,15 +95,11 @@ Seth's Filtering Guide:
 https://github.com/tparchman/lab/blob/master/FilteringGuide.md
 
 Local_PCA (Diana's Timema)
-https://github.com/zgompert/TimemaPolygenicSelection
-https://github.com/dianatataru/Timema-SV-Methods/blob/main/README.md
+https://github.com/zgompert/TimemaPolygenicSelection  
+https://github.com/dianatataru/Timema-SV-Methods/blob/main/README.md  
+https://drive.google.com/file/d/13O3hBWRBdHLWr8q27pSqOgwu4MPsfq3i/view?usp=sharing
 
 Example Stacks GBS pipeline
 https://github.com/duceppemo/GBS_stacks
-
-Timema Structural Variant Method (Diana)
-https://github.com/dianatataru/Timema-SV-Methods/blob/main/README.md
-Script:
-https://drive.google.com/file/d/13O3hBWRBdHLWr8q27pSqOgwu4MPsfq3i/view?usp=sharing
 
 
